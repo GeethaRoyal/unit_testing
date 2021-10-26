@@ -41,4 +41,5 @@ class SystemTest(unittest.TestCase):
     with self.assertRaises(expected_error):
       self.cart.set_checkout_date(date)
 
+
 unittest.main()
