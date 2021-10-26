@@ -29,3 +29,5 @@ class ShoppingCart:
 
     def apply_locals_discount(self):
         self.locals_discount = True
+
+ 
